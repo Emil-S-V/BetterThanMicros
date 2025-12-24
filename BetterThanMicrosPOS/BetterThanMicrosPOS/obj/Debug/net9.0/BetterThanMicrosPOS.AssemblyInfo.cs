@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetterThanMicrosPOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83ea17b6ccc819a4366022ae9f5c31780f518818")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f1353df5b0f330d2c12cc33d0421d9b420a7d33")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetterThanMicrosPOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetterThanMicrosPOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

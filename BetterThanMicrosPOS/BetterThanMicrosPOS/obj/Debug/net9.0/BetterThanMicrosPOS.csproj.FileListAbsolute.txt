@@ -97,3 +97,6 @@ C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\Bet
 C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\BetterThanMicrosPOS\obj\Debug\net9.0\BetterThanMicrosPOS.pdb
 C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\BetterThanMicrosPOS\obj\Debug\net9.0\BetterThanMicrosPOS.genruntimeconfig.cache
 C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\BetterThanMicrosPOS\obj\Debug\net9.0\ref\BetterThanMicrosPOS.dll
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\BetterThanMicrosPOS\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\BetterThanMicrosPOS\obj\Debug\net9.0\BetterThanMicrosPOS.csproj.AssemblyReference.cache
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\BetterThanMicrosPOS\obj\Debug\net9.0\BetterTh.83748604.Up2Date

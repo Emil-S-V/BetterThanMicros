@@ -1,0 +1,13 @@
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.deps.json
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.runtimeconfig.json
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\appsettings.Development.json
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\appsettings.json
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.staticwebassets.runtime.json
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.staticwebassets.endpoints.json
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.exe
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.dll
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\MySqlConnector.dll
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\bin\Debug\BetterThanMicrosPOS.pdb
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Bruker\OneDrive - Universitetet i Agder\Prosjekter\BetterThanMicros\BetterThanMicrosPOS\obj\Debug\docker-c.35A3FFBA.Up2Date
