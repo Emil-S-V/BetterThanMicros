@@ -1,0 +1,72 @@
+erDiagram
+    products {
+        int productID PK
+        string productName
+        float price
+        string category
+        boolean inStock
+    }
+    orders {
+        int orderID PK
+        date orderDate
+        string status
+        float totalAmount
+        string orderType
+        int workerID FK
+    }
+    orderItems {
+        int orderItemID PK
+        int orderID FK
+        int productID FK
+        int mealID FK
+        int quantity
+        float priceAtPurchase
+    }
+    payments {
+        int paymentID PK
+        int orderID FK
+        datetime paymentDate
+        float amount
+        string paymentMethod
+    }
+    modifiers {
+        int modifierID PK
+        string modifierName
+        float additionalCost
+    }
+    orderModifiers{
+        int orderItemID PK
+        int modifierID PK
+    }
+    meals{
+        int mealID PK
+        string mealName
+        float mealPrice
+        boolean isAvailable
+    }
+    mealItems{
+        int mealID PK
+        int productID PK
+        int quantity
+    }
+    roles{
+        int roleID PK
+        string roleName
+    }
+    workers{
+        int workerID PK
+        string workerName
+        int roleID FK
+        boolean isActive
+    }¨
+     %% Relationships
+    orders ||--o{ orderItems : "contains"
+    products ||--o{ orderItems : "included in"
+    meals ||--o{ orderItems : "included as meal"
+    meals ||--o{ mealItems : "contains"
+    products ||--o{ mealItems : "part of meal"
+    orders ||--o{ payments : "paid by"
+    orderItems ||--o{ orderModifiers : "has"
+    modifiers ||--o{ orderModifiers : "applied to"
+    roles ||--o{ workers : "assigned to"
+    workers ||--o{ orders : "handled by"
