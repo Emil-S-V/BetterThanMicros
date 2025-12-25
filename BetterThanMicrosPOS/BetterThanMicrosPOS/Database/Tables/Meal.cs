@@ -1,5 +1,8 @@
 ﻿namespace BetterThanMicrosPOS.Database.Tables
 {
+    // Represents a meal that can be ordered
+    // Consists of multiple items at reduced price
+    // PK = MealID
     public class Meal
     {
         public int MealID { get; set; }

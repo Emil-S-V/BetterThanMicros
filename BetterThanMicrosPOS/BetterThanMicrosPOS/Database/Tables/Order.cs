@@ -1,5 +1,7 @@
 ﻿namespace BetterThanMicrosPOS.Database.Tables
 {
+    // Represents the Order table in the database
+    // PK = orderID
     public class Order
     {
         public int orderID { get; set; }

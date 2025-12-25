@@ -1,5 +1,6 @@
 ﻿namespace BetterThanMicrosPOS.Database.Tables
 {
+    // Junction table representing the many-to-many relationship between OrderItems and Modifiers
     public class OrderModifier
     {
         public int OrderItemID { get; set; }

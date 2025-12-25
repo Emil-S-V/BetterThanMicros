@@ -1,5 +1,6 @@
 ﻿namespace BetterThanMicrosPOS.Database.Tables
 {
+    // Modifier which can be applied to OrderItems
     public class Modifier
     {
         public int ModifierID { get; set; }
